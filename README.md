@@ -1,4 +1,4 @@
-### oiii! eu sou alan jhones 👋
+           ### helo! word 👋
 
 - 🔭 em buscando o meu primeiro trabalho 
 - 🌱 atualmente estudo engenharia software
