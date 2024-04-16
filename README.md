@@ -1,4 +1,4 @@
-           ### helo! word 👋
+          hello, world!  
 
 - 🔭 em buscando o meu primeiro trabalho 
 - 🌱 atualmente estudo engenharia software
